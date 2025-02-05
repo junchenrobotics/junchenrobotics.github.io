@@ -6,7 +6,7 @@ pub:            "Robotics science and systems Workshop on Heterogeneous Multi-Ro
 pub_date:       "2020"
 abstract: >-
   In this paper we allow a heterogeneous team of groundand aerial robots to perform the search and tracking tasks in a coordinated manner. 
-cover:          /assets/images/covers/rss2020.jpg
+# cover:          /assets/images/covers/rss2020.jpg
 authors:
 - Jun Chen
 - Philip Dames#
