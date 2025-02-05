@@ -23,9 +23,9 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
   Jun Chen is an assistant professor in the  <a href="http://eae.njnu.edu.cn/" target="_blank">School of Electrical and Automation Engineering</a> 
-  at <a href="https://www.njnu.edu.cn/" target="_blank">Nanjing Normal University</a>, Nanjing, China ("Project 211", China rank \#52, ). 
+  at <a href="https://www.njnu.edu.cn/" target="_blank">Nanjing Normal University</a>, Nanjing, China ("Project 211", China rank 52). 
   His research interests include robotics, multi-robot systems, sensor-based planning, and intelligent systems.
-  He is a member of IEEE and Chinese Society of Automation.
+  He is a member of IEEE and the Chinese Society of Automation.
   </p>
 
 portrait_url: /assets/images/badges/headshot_4_by_3.jpg
@@ -33,16 +33,20 @@ portrait_url: /assets/images/badges/headshot_4_by_3.jpg
 #  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
+- name: <a href="https://www.kaust.edu.sa/en/" target="_blank">King Abdullah University of Science and Technology</a>, Thuwal, Saudi Arabia
   logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
+    <a href="https://cemse.kaust.edu.sa/risclab" target="_blank">Robotics, Intelligent Systems, and Control (RISC) Lab</a> <br/>
+    Postdoctoral fellow
+  advisor: <a href="https://sites.google.com/site/shinkyupark1/home" target="_blank">Shinkyu Park</a>
+  date: Dec. 2021 - Jul. 2023
+- name: <a href="https://www.temple.edu/" target="_blank">Temple University</a>
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  position: >-
+    <a href="https://sites.temple.edu/trail/" target="_blank">Temple Robotics and Artificial Intelligence Lab (TRAIL)</a>
+    Ph.D. in Mechanical Engineering
+  advisor: <a href="https://sites.temple.edu/pdames/" target="_blank">Philip Dames</a>
+  date: Aug. 2017 - Aug. 2021
 
 # experience:
 # - name: Peking University
