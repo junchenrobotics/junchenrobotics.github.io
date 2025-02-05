@@ -1,0 +1,15 @@
+---
+title:          "Distributed Multi-Target Tracking for Heterogeneous Mobile Sensing Networks with Limited Field of Views"
+date:           2021-05-30 00:01:00 +0800
+selected:       true
+pub:            "2021 IEEE International Conference on Robotics and Automation (ICRA)"
+pub_date:       "2021"
+abstract: >-
+  This paper introduces the normalized unused sensing capacity to measure the amount of information that a sensor is currently gathering relative to its theoretical maximum. This is then used to develop a distributed coverage control strategy for a team of heterogeneous sensors that automatically balances the load based on the current unused capacity of each team member. 
+cover:          /assets/images/covers/dars2022.jpg
+authors:
+- Jun Chen
+- Philip Dames
+links:
+  Paper: 10.1109/ICRA48506.2021.9561888
+---
