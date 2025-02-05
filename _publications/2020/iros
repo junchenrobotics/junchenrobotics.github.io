@@ -6,7 +6,7 @@ pub:            "2020 IEEE/RSJ International Conference on Intelligent Robots an
 pub_date:       "2020"
 abstract: >-
   In this paper we address this problem by introducing four new distributed algorithms that allow large teams of robots to: i) run the prediction and ii) update steps of a distributed recursive Bayesian multi- target tracker, iii) determine the set of local neighbors that must exchange data, and iv) exchange data in a consistent manner. 
-cover:          /assets/images/covers/iros2020.jpg
+# cover:          /assets/images/covers/iros2020.jpg
 authors:
 - Jun Chen
 - Philip Dames#
