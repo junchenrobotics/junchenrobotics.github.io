@@ -1,0 +1,17 @@
+---
+title:          "Distributed Multi-Robot Multi-Target Tracking Using Heterogeneous Limited-Range Sensorsr"
+date:           2025-02-01 00:01:00 +0800
+selected:       true
+pub:            "IEEE Transactions on Robotics (Accepted)"
+pub_date:       "2025"
+abstract: >-
+  In this paper we introduce the semantic probability hypothesis density (SPHD) filter, which allows robots to simultaneously track multiple classes of targets despite measurement uncertainty. 
+cover:          /assets/images/covers/tro2025.jpg
+authors:
+- Jun Chen#
+- Mohammed Abugurain
+- Philip Dames
+- Shinkyu Park
+links:
+  ArXiv: https://arxiv.org/abs/2311.01707
+---
