@@ -1,11 +1,11 @@
 ---
-title:          "TDistributed Multi-robot Tracking of Unknown Clustered Targets with Noisy Measurements"
+title:          "Distributed Multi-robot Tracking of Unknown Clustered Targets with Noisy Measurements"
 date:           2025-02-05 00:01:00 +0800
 selected:       true
 pub:            "International Symposium on Distributed Autonomous Robotic Systems"
 pub_date:       "2024"
 abstract: >-
-  n this paper, we develop a novel distributed multi-robot multi-target tracking algorithm for effectively tracking clustered targets from noisy measurements.
+  In this paper, we develop a novel distributed multi-robot multi-target tracking algorithm for effectively tracking clustered targets from noisy measurements.
 cover:          /assets/images/covers/ras.jpg
 authors:
 - Jun Chen
