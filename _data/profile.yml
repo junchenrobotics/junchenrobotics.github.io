@@ -34,23 +34,23 @@ portrait_url: /assets/images/badges/headshot_4_by_3.jpg
 
 education:
 - name: King Abdullah University of Science and Technology, Thuwal, Saudi Arabia
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/kaust.jpg
   position: >- 
     Robotics, Intelligent Systems, and Control (RISC) Lab <br/>
     Postdoctoral fellow (advisor Shinkyu Park)
   date: Dec. 2021 - Jul. 2023
 - name: Temple University, Philadelphia, PA, USA
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/temple.png
   position: >-
     Temple Robotics and Artificial Intelligence Lab (TRAIL)
     Ph.D. in Mechanical Engineering (advisor Philip Dames)
   date: Aug. 2017 - Aug. 2021
 - name: Stevens Institute of Technology, Hoboken, NJ, USA
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/stevens.png
   position: M.S. in Electrical Engineering (advisor Yi Guo)
   date: Jan. 2016 - May 2017
 - name: Hefei University of Technology, Hefei, China
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/hfut.png
   position: B.Eng in Measurement and Control Technology and Instrumentatio
   date: Sep. 2011 - Jul. 2015
 
