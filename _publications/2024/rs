@@ -1,0 +1,20 @@
+---
+title:          "ULG-SLAM: A Novel Unsupervised Learning and Geometric Feature-Based Visual SLAM Algorithm for Robot Localizability Estimation"
+date:           2024-5-30 00:01:00 +0800
+selected:       true
+pub:            "Remote Sensing"
+pub_date:       "2024"
+abstract: >-
+  This paper proposes ULG-SLAM, a novel unsupervised learning and geometric-based visual SLAM algorithm for robot localizability estimation to improve the accuracy and robustness of visual SLAM. 
+cover:          /assets/images/covers/rs2024.jpg
+authors:
+- Yihan Huang 
+- Fei Xie*
+- Jing Zhao 
+- Zhilin Gao 
+- Jun Chen 
+- Fei Zhao 
+- Xixiang Liu
+links:
+  Paper: https://www.mdpi.com/2072-4292/16/11/1968
+---
