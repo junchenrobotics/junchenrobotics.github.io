@@ -6,7 +6,7 @@ pub:            "2020 American Control Conference (ACC)"
 pub_date:       "2020"
 abstract: >-
   In this paper, we propose a distributed coverage control algorithm for mobile sensing networks that can account for bounded uncertainty in the location of each sensor. 
-cover:          /assets/images/covers/acc2020.jpg
+# cover:          /assets/images/covers/acc2020.jpg
 authors:
 - Jun Chen
 - Philip Dames#
