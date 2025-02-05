@@ -22,13 +22,10 @@ gscholar: https://scholar.google.com/citations?user=rlp3KGwAAAAJ&hl=zh-CN  # Thi
 short_bio_text_justify: false
 short_bio: >-
   <p>
-  Jun Chen is an assistant professor in the School of Electrical and Automation Engineering at Nanjing Normal University, Nanjing, China. 
-  He is also affiliated with Jiangsu Key Laboratory of 3D Printing Equipment and Manufacturing, Nanjing, China. 
-  He received his M.S. degree in Electrical and Computer Engineering from Stevens Institute of Technology, Hoboken, NJ, USA in 2017 
-  and his Ph.D. degree in Mechanical Engineering from Temple University, Philadelphia, PA, USA in 2021. 
-  He was a postdoctoral research fellow in Robotics, Intelligent Systems \& Control (RISC) Laboratory at 
-  King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia. 
-  His research interests include multi-robot systems, sensor-based control, and intelligent systems.
+  Jun Chen is an assistant professor in the  <a href="http://eae.njnu.edu.cn/" target="_blank">School of Electrical and Automation Engineering</a> 
+  at <a href="https://www.njnu.edu.cn/" target="_blank">Nanjing Normal University</a>, Nanjing, China ("Project 211", China rank \#52, ). 
+  His research interests include robotics, multi-robot systems, sensor-based planning, and intelligent systems.
+  He is a member of IEEE and Chinese Society of Automation.
   </p>
 
 portrait_url: /assets/images/badges/headshot_4_by_3.jpg
