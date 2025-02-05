@@ -8,7 +8,7 @@ abstract: >-
   In this paper, we develop a novel distributed multi-robot multi-target tracking algorithm for effectively tracking clustered targets from noisy measurements.
 cover:          /assets/images/covers/dars2022.jpg
 authors:
-- Jun Chen
+- Jun Chen*
 - Philip Dames
 - Shinkyu Park
 links:
