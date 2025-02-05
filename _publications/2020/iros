@@ -1,0 +1,15 @@
+---
+title:          "Collision-Free Distributed Multi-Target Tracking Using Teams of Mobile Robots with Localization Uncertainty"
+date:           2020-10-31 00:01:00 +0800
+selected:       true
+pub:            "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+pub_date:       "2020"
+abstract: >-
+  In this paper we address this problem by introducing four new distributed algorithms that allow large teams of robots to: i) run the prediction and ii) update steps of a distributed recursive Bayesian multi- target tracker, iii) determine the set of local neighbors that must exchange data, and iv) exchange data in a consistent manner. 
+cover:          /assets/images/covers/iros2020.jpg
+authors:
+- Jun Chen
+- Philip Dames#
+links:
+  Paper: 10.1109/IROS45743.2020.9341126
+---
