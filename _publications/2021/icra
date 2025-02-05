@@ -9,7 +9,7 @@ abstract: >-
 cover:          /assets/images/covers/dars2022.jpg
 authors:
 - Jun Chen
-- Philip Dames
+- Philip Dames*
 links:
   Paper: 10.1109/ICRA48506.2021.9561888
 ---
