@@ -1,7 +1,7 @@
 ---
 title:          "Distributed Multi-Target Search and Tracking Using a Coordinated Team of Ground and Aerial Robots"
 date:           2020-02-01 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Robotics science and systems Workshop on Heterogeneous Multi-Robot Task Allocation and Coordination"
 pub_date:       "2020"
 abstract: >-
