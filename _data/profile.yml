@@ -62,10 +62,10 @@ education:
 
 Teaching:
 - name: Signals and Systems
-  date: Spring 2023, 2024
+  #date: Spring 2023, 2024
 - name: Engineering Mathematics
-  date: Fall 2024
+  #date: Fall 2024
 - name: The Age of Robotics: Artificial Intelligence and Social Change
-  date: Spring/Fall 2024
+  #date: Spring/Fall 2024
 - name: Integrated Practice of Automation
-  date: Fall 2024
+  #date: Fall 2024
