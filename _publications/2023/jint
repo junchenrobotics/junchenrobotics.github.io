@@ -7,7 +7,7 @@ pub_date:       "2023"
 abstract: >-
   In this paper, we introduce the convex uncertain Voronoi (CUV) diagram, a generalization of the standard Voronoi diagram that accounts for the uncertain pose of each individual robot. 
   We then use the CUV diagram to develop distributed multi-target tracking and coverage control algorithms that enable teams of mobile robots to account for bounded uncertainty in the location of each robot.
-cover:          /assets/images/covers/jint2023.jpg
+# cover:          /assets/images/covers/jint2023.jpg
 authors:
 - Jun Chen
 - Philip Dames#
