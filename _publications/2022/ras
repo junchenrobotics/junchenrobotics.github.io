@@ -1,1 +1,16 @@
-
+---
+title:          "The semantic PHD filter for multi-class target tracking: From theory to practice"
+date:           2022-03
+selected:       true
+pub:            "Robotics and Autonomous Systems"
+pub_date:       "2022"
+abstract: >-
+  In this paper we introduce the semantic probability hypothesis density (SPHD) filter, which allows robots to simultaneously track multiple classes of targets despite measurement uncertainty.
+cover:          /assets/images/covers/ras.jpg
+authors:
+- Jun Chen
+- Zhanteng Xie
+- Philip Dames
+links:
+  Paper: https://doi.org/10.1016/j.robot.2021.103947
+---
