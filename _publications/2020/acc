@@ -9,7 +9,7 @@ abstract: >-
 cover:          /assets/images/covers/acc2020.jpg
 authors:
 - Jun Chen
-- Philip Dames
+- Philip Dames*
 links:
   Paper: 10.23919/ACC45564.2020.9147359
 ---
