@@ -33,7 +33,7 @@ portrait_url: /assets/images/badges/headshot_4_by_3.jpg
 #  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: King Abdullah University of Science and Technology, Thuwal, Saudi Arabia
+- name: <a href="https://www.kaust.edu.sa/en/" target="_blank">King Abdullah University of Science and Technology</a>, Thuwal, Saudi Arabia
   #logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
     <a href="https://cemse.kaust.edu.sa/risclab" target="_blank">Robotics, Intelligent Systems, and Control (RISC) Lab</a> <br/>
@@ -56,6 +56,12 @@ education:
   #logo: /assets/images/badges/PKU_red.png
   position: B.Eng in Measurement and Control Technology and Instrumentatio
   date: Sep. 2011 - Jul. 2015
+- name: King Abdullah University of Science and Technology, Thuwal, Saudi Arabia
+  logo: /assets/images/badges/MIT_Social_circle.png
+  position: >- 
+      Robotics, Intelligent Systems, and Control (RISC) Lab<br/>
+    Postdoctoral fellow
+  date: Dec. 2021 - Jul. 2023
 
 # experience:
 # - name: Peking University
