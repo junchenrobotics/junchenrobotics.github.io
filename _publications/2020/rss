@@ -1,0 +1,15 @@
+---
+title:          "Distributed Multi-Target Search and Tracking Using a Coordinated Team of Ground and Aerial Robots"
+date:           2020-02-01 00:01:00 +0800
+selected:       true
+pub:            "Robotics science and systems Workshop on Heterogeneous Multi-Robot Task Allocation and Coordination"
+pub_date:       "2020"
+abstract: >-
+  In this paper we allow a heterogeneous team of groundand aerial robots to perform the search and tracking tasks in a coordinated manner. 
+cover:          /assets/images/covers/rss2020.jpg
+authors:
+- Jun Chen
+- Philip Dames
+links:
+  Paper: https://par.nsf.gov/biblio/10194714
+---
