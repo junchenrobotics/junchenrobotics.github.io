@@ -1,1 +1,15 @@
-
+---
+title:          "Distributed and Collision-Free Coverage Control of a Team of Mobile Sensors Using the Convex Uncertain Voronoi Diagram"
+date:           2020-07-01 00:01:00 +0800
+selected:       true
+pub:            "2020 American Control Conference (ACC)"
+pub_date:       "2020"
+abstract: >-
+  In this paper, we propose a distributed coverage control algorithm for mobile sensing networks that can account for bounded uncertainty in the location of each sensor. 
+cover:          /assets/images/covers/acc2020.jpg
+authors:
+- Jun Chen
+- Philip Dames
+links:
+  Paper: 10.23919/ACC45564.2020.9147359
+---
