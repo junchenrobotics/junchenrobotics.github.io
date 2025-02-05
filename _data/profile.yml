@@ -52,6 +52,10 @@ education:
   position: M.S. in Electrical Engineering
   advisor: <a href="https://www.stevens.edu/profile/yguo1" target="_blank">Yi Guo</a>
   date: Jan. 2016 - May 2017
+- name: <a href="https://www.hfut.edu.cn/" target="_blank">Hefei University of Technology</a>, Hefei, China
+  #logo: /assets/images/badges/PKU_red.png
+  position: B.Eng in Measurement and Control Technology and Instrumentatio
+  date: Sep. 2011 - Jul. 2015
 
 # experience:
 # - name: Peking University
