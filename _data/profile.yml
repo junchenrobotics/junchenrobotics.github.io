@@ -33,35 +33,26 @@ portrait_url: /assets/images/badges/headshot_4_by_3.jpg
 #  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: <a href="https://www.kaust.edu.sa/en/" target="_blank">King Abdullah University of Science and Technology</a>, Thuwal, Saudi Arabia
-  #logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    <a href="https://cemse.kaust.edu.sa/risclab" target="_blank">Robotics, Intelligent Systems, and Control (RISC) Lab</a> <br/>
-    Postdoctoral fellow
-  advisor: <a href="https://sites.google.com/site/shinkyupark1/home" target="_blank">Shinkyu Park</a>
-  date: Dec. 2021 - Jul. 2023
-- name: <a href="https://www.temple.edu/" target="_blank">Temple University</a>, Philadelphia, PA, USA
-  #logo: /assets/images/badges/PKU_red.png
-  position: >-
-    <a href="https://sites.temple.edu/trail/" target="_blank">Temple Robotics and Artificial Intelligence Lab (TRAIL)</a>
-    Ph.D. in Mechanical Engineering
-  advisor: <a href="https://sites.temple.edu/pdames/" target="_blank">Philip Dames</a>
-  date: Aug. 2017 - Aug. 2021
-- name: <a href="https://www.stevens.edu/" target="_blank">Stevens Institute of Technology</a>, Hoboken, NJ, USA
-  #logo: /assets/images/badges/PKU_red.png
-  position: M.S. in Electrical Engineering
-  advisor: <a href="https://www.stevens.edu/profile/yguo1" target="_blank">Yi Guo</a>
-  date: Jan. 2016 - May 2017
-- name: <a href="https://www.hfut.edu.cn/" target="_blank">Hefei University of Technology</a>, Hefei, China
-  #logo: /assets/images/badges/PKU_red.png
-  position: B.Eng in Measurement and Control Technology and Instrumentatio
-  date: Sep. 2011 - Jul. 2015
 - name: King Abdullah University of Science and Technology, Thuwal, Saudi Arabia
   logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
     Robotics, Intelligent Systems, and Control (RISC) Lab <br/>
-    Postdoctoral fellow
+    Postdoctoral fellow (advisor Shinkyu Park)
   date: Dec. 2021 - Jul. 2023
+- name: Temple University, Philadelphia, PA, USA
+  logo: /assets/images/badges/PKU_red.png
+  position: >-
+    Temple Robotics and Artificial Intelligence Lab (TRAIL)
+    Ph.D. in Mechanical Engineering (advisor Philip Dames)
+  date: Aug. 2017 - Aug. 2021
+- name: Stevens Institute of Technology, Hoboken, NJ, USA
+  logo: /assets/images/badges/PKU_red.png
+  position: M.S. in Electrical Engineering (advisor Yi Guo)
+  date: Jan. 2016 - May 2017
+- name: Hefei University of Technology, Hefei, China
+  logo: /assets/images/badges/PKU_red.png
+  position: B.Eng in Measurement and Control Technology and Instrumentatio
+  date: Sep. 2011 - Jul. 2015
 
 # experience:
 # - name: Peking University
