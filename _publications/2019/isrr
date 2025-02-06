@@ -8,7 +8,7 @@ abstract: >-
   In this paper we introduce the semantic probability hypothesis density (SPHD) filter, which allows robots to simultaneously track multiple classes of targets despite measurement uncertainty. 
 # cover:          /assets/images/covers/isrr2019.jpg
 authors:
-- "Jun Chen"
+- Jun Chen
 - Philip Dames#
 links:
   Paper: https://link.springer.com/chapter/10.1007/978-3-030-95459-8_32
