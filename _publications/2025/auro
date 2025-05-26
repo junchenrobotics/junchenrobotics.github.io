@@ -1,0 +1,16 @@
+---
+title:          "Effective Tracking of Unknown Clustered Targets using a Distributed Team of Mobile Robots"
+date:           2025-05-261 00:01:00 +0800
+selected:       true
+pub:            "Autonomous Robots"
+pub_date:       "2025"
+abstract: >-
+  This paper develops a novel distributed multi-robot multi-target  tracking algorithm to effectively search for and track clustered targets
+# cover:          /assets/images/covers/auro2025.jpg
+authors:
+- Jun Chen#
+- Philip Dames
+- Shinkyu Park
+links:
+  DOI: https://doi.org/10.1007/s10514-025-10200-z
+---
