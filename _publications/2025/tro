@@ -5,7 +5,7 @@ selected:       true
 pub:            "IEEE Transactions on Robotics"
 pub_date:       "2025"
 abstract: >-
-  In this paper we introduce the semantic probability hypothesis density (SPHD) filter, which allows robots to simultaneously track multiple classes of targets despite measurement uncertainty. 
+ This paper presents a cooperative multi-robot multi-target search and tracking framework aimed at enhancing the efficiency of the heterogeneous sensor network and, consequently, improving overall target tracking accuracy 
 # cover:          /assets/images/covers/tro2025.jpg
 authors:
 - Jun Chen#
