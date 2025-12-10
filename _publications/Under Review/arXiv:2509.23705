@@ -1,0 +1,16 @@
+---
+title:          "MDCPP: Multi-robot Dynamic Coverage Path Planning for Workload Adaptation"
+date:           2025-09-28 00:01:00 +0800
+selected:       false
+pub:            "arXiv preprint arXiv:2509.23705"
+pub_date:       "2025"
+abstract: >-
+  We introduce a novel Multi-robot Dynamic Coverage Path Planning (MDCPP) algorithm for complete coverage in two-dimensional environments
+# cover:          /assets/images/covers/auro2025.jpg
+authors:
+- Jun Chen#
+- Mingjia Chen
+- Shinkyu Park
+links:
+  DOI: https://doi.org/10.48550/arXiv.2509.23705
+---
