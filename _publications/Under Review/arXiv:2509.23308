@@ -1,1 +1,16 @@
-
+---
+title:          "Distributed Multi-Robot Multi-Target Simultaneous Search and Tracking in an Unknown Non-convex Environment"
+date:           2025-09-27 00:01:00 +0800
+selected:       false
+pub:            "arXiv preprint arXiv:2509.23308"
+pub_date:       "2025"
+abstract: >-
+  In this paper, we propose a novel motion planning algorithm framework that integrates three control strategies
+# cover:          /assets/images/covers/auro2025.jpg
+authors:
+- Jun Chen
+- Jiaqing Ma
+- Philip Dames
+links:
+  DOI: https://arxiv.org/abs/2509.23308
+---
