@@ -1,0 +1,19 @@
+---
+title:          "PFEA: An LLM-based High-Level Natural Language Planning and Feedback Embodied Agent for Human-Centered AI"
+date:           2025-10-28 00:01:00 +0800
+selected:       false
+pub:            "arXiv preprint arXiv:2510.24109"
+pub_date:       "2025"
+abstract: >-
+  This paper explores the implementation of intelligent robotic manipulating agents based on Vision-Language Models (VLMs) in the physical world
+# cover:          /assets/images/covers/auro2025.jpg
+authors:
+- Wenbin Ding
+- Jun Chen#
+- Mingjia Chen
+- Fei Xie
+- Qi Mao
+- Philip Dames
+links:
+  DOI: https://doi.org/10.48550/arXiv.2510.24109
+---
