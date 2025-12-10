@@ -1,0 +1,18 @@
+---
+title:          "Distributed Multi-Robot Active Gathering for Non-Uniform Agriculture and Forestry Information"
+date:           2025-10-22 00:01:00 +0800
+selected:       false
+pub:            "Frontiers in Plant Science"
+pub_date:       "2025"
+abstract: >-
+   In this paper, we reformulate the information gathering problem as a multi-armed bandit (MAB) problem and propose a novel distributed Bernoulli Thompson Sampling algorithm
+# cover:          /assets/images/covers/auro2025.jpg
+authors:
+- Jun Chen#
+- Mingjia Chen
+- Qi Mao
+- Fei Xie
+- Philip M Dames
+links:
+  DOI: https://doi.org/10.3389/fpls.2025.1699124
+---
