@@ -8,7 +8,7 @@ abstract: >-
   In this paper, we propose a novel motion planning algorithm framework that integrates three control strategies
 # cover:          /assets/images/covers/auro2025.jpg
 authors:
-- Jun Chen
+- Jun Chen#
 - Jiaqing Ma
 - Philip Dames
 links:
