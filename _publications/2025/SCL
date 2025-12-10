@@ -1,0 +1,19 @@
+---
+title:          "Harnessing optimal robustness towards PI regulators of linear perturbed unstable systems"
+date:           2025-11-1 00:01:00 +0800
+selected:       false
+pub:            "Systems & Control Letters"
+pub_date:       "2025"
+abstract: >-
+  In this paper, we investigate how a regulator can be implemented for gaining the optimal robustness margin of second-order plants in the presence of uncertain perturbations
+# cover:          /assets/images/covers/auro2025.jpg
+authors:
+- Qi Mao
+- Jun Chen#
+- Fei Xie
+- Liqian Dou
+- Bailing Tian
+- Qun Zong
+links:
+  DOI: https://doi.org/10.1016/j.sysconle.2025.106225
+---
