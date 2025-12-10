@@ -1,0 +1,19 @@
+---
+title:          "Digital Twin-Driven Sorting System for 3D Printing Farm"
+date:           2025-09-19 00:01:00 +0800
+selected:       true
+pub:            "Applied Sciences"
+pub_date:       "2025"
+abstract: >-
+  This study develops a digital twin-driven intelligent sorting system for 3D-printed agricultural tools
+# cover:          /assets/images/covers/auro2025.jpg
+authors:
+- Zeyan Wang
+- Fei Xie#
+- Zhiyuan Wang#
+- Yijian Liu
+- Qi Mao
+- Jun Chen
+links:
+  DOI: https://doi.org/10.3390/app151810222
+---
